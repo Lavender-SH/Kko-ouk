@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (4.1.3)
+  - PanModal (1.2.7)
+
+DEPENDENCIES:
+  - lottie-ios
+  - PanModal
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - PanModal
+
+SPEC CHECKSUMS:
+  lottie-ios: d0954d3150061f662ed0adf96ef98d7421864c47
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+
+PODFILE CHECKSUM: 75825911bd494585677f19acb218cb7b90dc88db
+
+COCOAPODS: 1.12.0

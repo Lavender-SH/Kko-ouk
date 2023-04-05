@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "greencheck.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

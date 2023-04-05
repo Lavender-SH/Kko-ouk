@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "pinkbutton.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
